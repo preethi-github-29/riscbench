@@ -10,7 +10,7 @@ Originally introduced at **RISC-V Summit North America 2025**, RISCBench was for
 - **SIT Engine:** Core pipeline for computing the Sustained Instantaneous Throughput metric.
 - **Trace & Classification:** Trace ingestion API, schema, and residency/throughput window classifiers.
 - **Simulation Sensitivity Module:** Latency, bandwidth, and synchronization sweep tools.
-- **Adapters & Suites:** Kernel suites and vendor/simulator adapters (Spike, QEMU, Renode, Olympia).
+- **Adapters & Suites:** Kernel suites and vendor/simulator adapters (Spike, QEMU, Renode).
 
 ---
 
