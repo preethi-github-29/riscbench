@@ -23,4 +23,4 @@ Originally introduced at **RISC-V Summit North America 2025**, RISCBench was for
 ## 🤝 Contributing
 RISCBench is an evolving research framework. We welcome contributions from industry, academia, and government across chip architecture, EDA research, systems design, and heterogeneous computing. 
 
-Please star ⭐ the repository to stay aligned with updates, initial commits, and roadmap evolution!
+
